@@ -1,0 +1,11 @@
+div {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px dotted black;
+}
+
+main {
+  position: relative;
+}
